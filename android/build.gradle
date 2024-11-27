@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace('com.fluttercommunity.fluttersms')
+    namespace('com.example.flutter_sms')
     compileSdkVersion 31
 
     sourceSets {
